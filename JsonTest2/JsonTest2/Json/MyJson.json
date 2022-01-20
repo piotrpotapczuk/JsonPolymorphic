@@ -1,0 +1,14 @@
+{
+  "Header": {
+    "HeaderId": 1,
+    "Subject": "temat1"
+  },
+  "Person": {
+    "ClassName": "PersonType.NaturalPerson",
+    "Id": 99,
+    "NaturalName": "myNaturalSampleName 2222",
+    "NaturalAddress": {
+      "NaturalAddressValue": "adres domowy 2222"
+    }
+  }
+}
